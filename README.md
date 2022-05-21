@@ -3,9 +3,6 @@ Just another text editor with google install
 
 PWA technology
 
-
-# lets_manage_my_employees
-
 ![Badge](https://img.shields.io/github/license/kishan254/lets_manage_my_employees)
 
 ## Description
