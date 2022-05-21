@@ -20,7 +20,7 @@ This is a text editor - PWA
 
 In order to run this application, you will need to install the following
 
-- npm instal
+- npm install (Client and root)
 
 
 ## Start
