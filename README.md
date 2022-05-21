@@ -14,7 +14,6 @@ This is a text editor - PWA
 * [Installation](#installation)
 * [Start](#Start)
 * [Video](#Video)
-* [Making](#making)
 * [Questions](#questions)
 
 ## Installation
@@ -22,7 +21,6 @@ This is a text editor - PWA
 In order to run this application, you will need to install the following
 
 - npm instal
-
 
 
 ## Start
